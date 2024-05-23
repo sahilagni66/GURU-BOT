@@ -73,9 +73,9 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
-global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
+global.packname = '𝐅𝖾ᥣ𝗂𝗑 | 𝐓ɦ𝖾 𝐃αᑯᑯ𝗒'
+global.author = '.𝐅𝖾ᥣ𝗂𝗑 | 𝐓ɦ𝖾 𝐃αᑯᑯ𝗒'
+global.menuvid = 'https://i.imgur.com/7bf5r45.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
 global.dygp = 'https://chat.whatsapp.com/EOojWFPhi2204G7mEFFKXc'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT'
